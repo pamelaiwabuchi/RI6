@@ -1,0 +1,1 @@
+{"version":3,"file":"Subtracao.js","sourceRoot":"","sources":["../src/Subtracao.ts"],"names":[],"mappings":"AAAA,OAAO,OAAO,MAAM,cAAc,CAAA;AAElC,MAAM,CAAC,OAAO,OAAO,SAAU,SAAQ,OAAO;IACnC,QAAQ,CAAC,OAAc,EAAC,OAAc;QACzC,OAAO,OAAO,GAAG,OAAO,CAAA;IAC5B,CAAC;CACJ"}

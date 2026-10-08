@@ -12,8 +12,8 @@ export default class Mensagens {
     }
     public tutorial = () => {
         console.log(`Primeiro escolha a operação pelo número do menu`)
-        console.log(`Depois digite os números separados por espaço, tais como: "1 2.2"`)
-        console.log(`Para Bhaskara, digite 3 números (a, b e c), tais como: "1 -5 6"`)
+        console.log(`Depois digite o primeiro número e envie com a tecla Enter. Repita com os próximos números, se necessário.`)
+        console.log(`Para Bhaskara, envie 3 números (a, b e c), conforme o sistema solicitar.`)
         console.log(`Para encerrar a calculadora digite 0 a qualquer momento\n`)
     }
     public boasVindas = () => {
